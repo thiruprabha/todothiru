@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: TestDemo
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example
+Build-Jdk: 1.7.0_67
+Built-By: 164920
+Created-By: Maven Integration for Eclipse
+
